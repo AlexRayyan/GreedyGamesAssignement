@@ -1,0 +1,56 @@
+{
+  "Canvas": {
+    "canvasName": "myCanvas",
+    "canvasPosition": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "canvasSize": {
+      "x": 40.0,
+      "y": 40.0
+    },
+    "canvasChildren": {
+      "panelName": "myPanel",
+      "panelPosition": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "panelSize": {
+        "x": 20.0,
+        "y": 20.0
+      },
+      "panelBackgroundColor": {
+        "r": 0.10417497158050537,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "panelChildren": {
+        "Button": {
+          "buttonName": "myButton",
+          "buttonPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "buttonSize": {
+            "x": 7.0,
+            "y": 2.0
+          },
+          "buttonText": "Click"
+        },
+        "Label": {
+          "labelName": "mylabel",
+          "labelPosition": {
+            "x": 0.0,
+            "y": 5.0
+          },
+          "labelSize": {
+            "x": 7.0,
+            "y": 2.0
+          },
+          "labelText": ""
+        }
+      }
+    }
+  }
+}
